@@ -1,9 +1,8 @@
-python_version == 3.10
-streamlit
-opencv-python-headless
-latex2sympy2
-sympy
-antlr4-python3-runtime
-Pillow
-numpy
-onnxruntime
+streamlit==1.35.0
+opencv-python-headless==4.8.1.78
+latex2sympy2==1.0.1
+sympy==1.12
+antlr4-python3-runtime==4.11
+Pillow==10.2.0
+numpy==1.26.4
+onnxruntime==1.17.3
