@@ -1,7 +1,9 @@
+python_version == 3.10
 streamlit
-onnxruntime
 opencv-python-headless
-Pillow
-latex2sympy2==1.9.1
+latex2sympy2
 sympy
+antlr4-python3-runtime
+Pillow
 numpy
+onnxruntime
