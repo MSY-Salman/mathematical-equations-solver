@@ -1,7 +1,7 @@
-streamlit==1.35.0
-Pillow==10.3.0
-numpy==1.26.4
-onnxruntime==1.17.3
-opencv-python==4.9.0.80
-sympy==1.12
-latex2sympy2==1.0.1
+streamlit
+onnxruntime
+opencv-python
+Pillow
+latex2sympy2==1.9.1
+sympy
+numpy
