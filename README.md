@@ -1,7 +1,7 @@
 # 🧠 MathVision AI
 
 **MathVision AI** is an advanced deep learning-powered application designed to recognize and solve handwritten mathematical expressions. It uses computer vision, LaTeX conversion, and symbolic computation—wrapped in a visually elegant interface powered by **Streamlit**.
-
+Can be accessed at: https://huggingface.co/spaces/MSY-Salman/MathVision-AI
 ---
 
 ## 👨‍💻 Team Members
